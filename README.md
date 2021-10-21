@@ -24,5 +24,8 @@ the description and preprocessing of the dataset [PeMSD7](https://pems.dot.ca.go
 ## Citation
 If you find this repository, e.g., the code and the datasets, useful in your research, please cite the following paper:
 
-`@article{xu2020spatial,title={Spatial-temporal transformer networks for traffic flow forecasting},author={Xu, Mingxing and Dai, Wenrui and Liu, Chunmiao and Gao, Xing and Lin, Weiyao and Qi, Guo-Jun and Xiong, Hongkai},journal={arXiv preprint arXiv:2001.02908},year={2020}
-}`
+    @article{xu2020spatial,title={Spatial-temporal transformer networks for traffic flow forecasting},
+    author={Xu, Mingxing and Dai, Wenrui and Liu, Chunmiao and Gao, Xing and Lin, Weiyao and Qi, Guo-Jun and Xiong, Hongkai},
+    journal={arXiv preprint arXiv:2001.02908},
+    year={2020}
+    }   
