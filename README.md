@@ -19,7 +19,7 @@ Our code is based on Python3.6, a few depended libraries as as follows:
 ## Dataset
 We adopted the same dataset as "Spatio-Temporal Graph Convolutional Networks: 
 A Deep Learning Framework for Traffic Forecasting" and "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting". Please refer to [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18) for 
-the description and preprocessing of the dataset [PeMSD7](https://pems.dot.ca.gov) and [DCRNN] for that of the dataset [PeMS-bay](https://github.com/liyaguang/DCRNN).
+the description and preprocessing of the dataset [PeMSD7](https://pems.dot.ca.gov) and [DCRNN](https://github.com/liyaguang/DCRNN) for that of the dataset [PeMS-bay](https://github.com/liyaguang/DCRNN).
 
 ## Citation
 If you find this repository, e.g., the code and the datasets, useful in your research, please cite the following paper:
