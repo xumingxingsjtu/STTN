@@ -7,7 +7,7 @@ In this paper, we propose a novel paradigm of Spatial-Temporal Transformer Netwo
 Specifically, we present a new variant of graph neural networks, named spatial transformer, by dynamically modeling directed spatial dependencies with self-attention mechanism to capture realtime traffic conditions as well as the directionality of traffic flows.
 Furthermore, different spatial dependency patterns can be jointly modeled with multi-heads attention mechanism to consider diverse relationships related to different factors (e.g. similarity, connectivity and covariance). 
 On the other hand, the temporal transformer is utilized to model long-range bidirectional temporal dependencies across multiple time steps. Finally, they are composed as a block to jointly model the spatial-temporal dependencies for accurate traffic prediction.
-Compared to existing works, the proposed model enables fast and scalable training over a long range spatial-temporal dependencies. Experiment results demonstrate that the proposed model achieves competitive results compared with the state-of-the-arts, especially forecasting long-term traffic flows on real-world PeMS-Bay and PeMSD7(M) datasets.
+Compared to existing works, the proposed model enables fast and scalable training over a long range spatial-temporal dependencies. Experimental results demonstrate that the proposed model achieves competitive results compared with the state-of-the-arts, especially in forecasting long-term traffic flows on real-world PeMS-Bay and PeMSD7(M) datasets.
 
 ## Prerequisites
 Our code is based on Python3.6, a few depended libraries as as follows:
