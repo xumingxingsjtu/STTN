@@ -1,5 +1,5 @@
 ## STTN: Spatial temporal transformer networks for traffic flow forecasting
-The code for "Spatial temporal transformer networks for traffic flow forecasting"
+The offical code for "Spatial temporal transformer networks for traffic flow forecasting"
 ## Introduction
 Traffic forecasting has emerged as a core component of intelligent transportation systems.
 However, timely accurate traffic forecasting, especially long-term forecasting, still remains an open challenge due to the highly nonlinear and dynamic spatial-temporal dependencies of traffic flows. 
